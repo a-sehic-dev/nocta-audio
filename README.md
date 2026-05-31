@@ -3,9 +3,20 @@
 > **Built by [Sedin Šehić](https://www.upwork.com/freelancers/sedins)**  
 > Python Automation Engineer | eCommerce, AI & Data Pipelines
 
+[![Live Demo](https://img.shields.io/badge/LIVE%20DEMO-nocta--audio.vercel.app-green?style=for-the-badge)](https://nocta-audio.vercel.app)
+
 A production-ready e-commerce web application for a premium audio equipment brand, featuring 109+ products, full shopping cart & checkout, customer reviews, blog, wishlist, and admin dashboard.
 
 ![NOCTA Audio Preview](./public/hero/hero-bg.jpg)
+
+---
+
+## Live Demo
+
+**[https://nocta-audio.vercel.app](https://nocta-audio.vercel.app)**
+
+**Admin Panel:** `/admin`  
+**Demo Login:** `admin` / `admin123`
 
 ---
 
